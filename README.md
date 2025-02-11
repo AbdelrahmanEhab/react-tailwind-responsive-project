@@ -25,3 +25,6 @@ Make sure you have **Node.js** installed on your machine. You can download it fr
 3. Running the Project
     ```bash
    npm run dev
+
+### [Link to video Here](https://www.youtube.com/watch?v=NUOzyY9ffYs)
+
