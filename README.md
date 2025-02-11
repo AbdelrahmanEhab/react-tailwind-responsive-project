@@ -16,7 +16,7 @@ Make sure you have **Node.js** installed on your machine. You can download it fr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/react-tailwind-responsive-landing-page.git
+   git clone https://github.com/AbdelrahmanEhab/react-tailwind-responsive-project.git
 
 2. Install dependencies:
    ```bash
